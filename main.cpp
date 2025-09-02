@@ -16,7 +16,7 @@ int main()
     case 1:
         res = num1 + num2;
         cout<<"Add Result: "<<res<<endl;
-
+        break;
     default:
         cout << "Invalid Choice" << endl;
         break;
